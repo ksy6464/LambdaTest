@@ -1,5 +1,6 @@
 package kr.or.ddit.basic;
 
+///깃허브 연결된겨?
 
 ///이 어노테이션을 붙이는 순간 FunctionalInterface가 된다, 추상메서드가 한개인 인터페이스를 말한다
 @FunctionalInterface
@@ -16,7 +17,7 @@ interface LanbdaTestInterface2 {
 	// 반환값이 없고, 매개변수는 있는 추상메서드 선언
 	public void test(int a);
 	
-	///깃허브 연결된겨?..
+	
 	
 }
 
