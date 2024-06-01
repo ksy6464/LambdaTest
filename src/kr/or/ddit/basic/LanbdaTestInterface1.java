@@ -16,6 +16,7 @@ interface LanbdaTestInterface2 {
 	// 반환값이 없고, 매개변수는 있는 추상메서드 선언
 	public void test(int a);
 	
+	///깃허브 연결된겨?..
 	
 }
 
